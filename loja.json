@@ -4,5 +4,23 @@
     "version": "1.03",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/v1.03/WPlay.P2P.BinStream.apk"
+  },
+  {
+    "name": "Unitv",
+    "version": "4.19",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unitv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.02/unitv.apk"
+  },
+  {
+    "name": "Unet TV Player",
+    "version": "2.0.0",
+    "iconUrl": "https://https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/UnetPlayer.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/1.09/unetapp.apk"
+  },
+  {
+    "name": "SoniPlay",
+    "version": "3.8.0",
+    "iconUrl": "https://https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaytv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.01/soniplaytv.apk"
   }
 ]
