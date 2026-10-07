@@ -2,6 +2,7 @@
   {
     "name": "WPlay P2P",
     "version": "1.03",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.03/WPlay.P2P.BinStream.apk"
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/refs/heads/main/icones/wplay.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/v1.03/WPlay.P2P.BinStream.apk"
   }
 ]
