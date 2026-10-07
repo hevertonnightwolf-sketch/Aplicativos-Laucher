@@ -14,13 +14,13 @@
   {
     "name": "Unet TV Player",
     "version": "2.0.0",
-    "iconUrl": "https://https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/UnetPlayer.png",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/UnetPlayer.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/1.09/unetapp.apk"
   },
   {
     "name": "SoniPlay",
     "version": "3.8.0",
-    "iconUrl": "https://https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaytv.png",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaytv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.01/soniplaytv.apk"
   }
 ]
