@@ -1,9 +1,10 @@
 [
-      "name": "Atualização laucher",
+  {
+    "name": "Atualização laucher",
     "version": "1.01",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.02/Laucher.personalizada.unet.apk"
-  }
+  },
   {
     "name": "WPlay P2P",
     "version": "1.03",
@@ -27,8 +28,5 @@
     "version": "3.8.0",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaytv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.01/soniplaytv.apk"
-  },
-  {
-    
   }
 ]
