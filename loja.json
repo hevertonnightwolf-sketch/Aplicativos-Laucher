@@ -2,30 +2,40 @@
   {
     "name": "Atualização laucher",
     "version": "1.01",
+    "description": "Launcher oficial atualizada com novas cores e desempenho otimizado.",
+    "price": "GRÁTIS",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.04/Laucher.personalizada.unet.apk"
   },
   {
     "name": "WPlay P2P",
     "version": "1.03",
+    "description": "Transmissão P2P estável em alta definição sem travamentos.",
+    "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/v1.03/WPlay.P2P.BinStream.apk"
   },
   {
     "name": "Unitv",
     "version": "4.19",
+    "description": "Canais ao vivo, guia completo e catálogo sob demanda.",
+    "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unitv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.02/unitv.apk"
   },
   {
     "name": "Unet TV Player",
     "version": "2.0.0",
+    "description": "Player multimídia exclusivo para clientes da rede Unet.",
+    "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/UnetPlayer.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/1.09/unetapp.apk"
   },
   {
     "name": "SoniPlay",
     "version": "3.8.0",
+    "description": "Aplicativo completo para filmes, séries e entretenimento.",
+    "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaytv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.01/soniplaytv.apk"
   }
