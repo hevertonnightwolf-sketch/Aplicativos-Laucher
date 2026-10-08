@@ -1,9 +1,21 @@
 [
   {
     "name": "Atualização laucher",
-    "version": "1.01",
+    "version": "1.08",
     "tier": "DIAMANTE",
-    "description": "Launcher oficial atualizada com novas cores e desempenho otimizado.",
+    "description": "Notas da Versão – Atualização do Launcher
+
+Visual: Paleta de cores atualizada e design mais limpo.
+
+Performance: Otimização no carregamento inicial e transições mais fluidas.
+
+Correções: Resolução de falhas críticas e correções gerais de estabilidade.
+
+Painel: Indicadores de horário e sinal de Wi-Fi agora totalmente funcionais.
+
+Loja: Catálogo ampliado, carregamento acelerado e interface aprimorada.
+
+Downloads: Adicionada barra de progresso visual com status em tempo real.",
     "price": "GRÁTIS",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.08/Laucher.personalizada.unet.apk"
