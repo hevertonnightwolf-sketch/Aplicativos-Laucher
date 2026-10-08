@@ -51,13 +51,13 @@ A liderança comprovada em qualidade e desempenho.",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/4.21.0.00/unitv.4.21.apk"
   },
   {
-    "name": "Unet TV Player",
-    "version": "2.0.0",
+    "name": "Unet Plus TV Player",
+    "version": "1.0",
     "tier": "PLATINA",
     "description": "Player multimídia exclusivo para clientes da rede Unet.",
-    "price": "R$ 20,00",
-    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/UnetPlayer.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/1.09/unetapp.apk"
+    "price": "R$ 25,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unetplus.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.00/UNET.PLUS.apk"
   },
   {
     "name": "SoniPlay",
