@@ -3,7 +3,9 @@
     "name": "Atualização laucher",
     "version": "1.08",
     "tier": "DIAMANTE",
-    "description": "Notas da Versão – Atualização do Launcher
+    "description": 
+    
+    "Notas da Versão – Atualização do Launcher
 
 Visual: Paleta de cores atualizada e design mais limpo.
 
@@ -24,7 +26,9 @@ Downloads: Adicionada barra de progresso visual com status em tempo real.",
     "name": "WPlay P2P",
     "version": "11.09.0d",
     "tier": "PLATINA",
-    "description": "⚡ WPLAY: Transmissão P2P em Alta Definição
+    "description": 
+    
+    "⚡ WPLAY: Transmissão P2P em Alta Definição
 
 Imagem em alta definição sem travamentos
 
@@ -39,7 +43,9 @@ Fluidez total para assistir sem interrupções.",
     "name": "Unitv",
     "version": "4.21.0.00",
     "tier": "PLATINA",
-    "description": "🏆 UniTV: Eleito o Melhor Sistema do Brasil por 6x Consecutivas!
+    "description": 
+    
+    "🏆 UniTV: Eleito o Melhor Sistema do Brasil por 6x Consecutivas!
 
 Tecnologia OTT Plus ultraestável e sem travamentos
 
@@ -54,7 +60,12 @@ A liderança comprovada em qualidade e desempenho.",
     "name": "Unet Plus TV Player",
     "version": "1.0",
     "tier": "PLATINA",
-    "description": "Player multimídia exclusivo para clientes da rede Unet.",
+    "description": 
+    
+    "🔥 Unet TV+ Plus | O Rival Absoluto do UniTV   
+    🚀 O que mais cresce no mercado: tecnologia moderna e expansão acelerada.
+    💎 Qualidade sem igual: transmissão estável, imagem em alta definição e fluidez total.
+    ⚡ Desempenho de topo: troca rápida de canais, sem engasgos ou sobrecargas..",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unetplus.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.00/UNET.PLUS.apk"
