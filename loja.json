@@ -22,5 +22,11 @@
     "version": "3.8.0",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaytv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.01/soniplaytv.apk"
+  },
+  {
+    "name": "Atualização laucher",
+    "version": "1.01",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.01/Laucher.personalizada.unet.apk"
   }
 ]
