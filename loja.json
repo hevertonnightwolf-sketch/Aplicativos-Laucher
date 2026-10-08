@@ -22,12 +22,18 @@ Downloads: Adicionada barra de progresso visual com status em tempo real.",
   },
   {
     "name": "WPlay P2P",
-    "version": "1.03",
+    "version": "11.09.0d",
     "tier": "PLATINA",
-    "description": "Transmissão P2P estável em alta definição sem travamentos.",
-    "price": "R$ 20,00",
+    "description": "⚡ WPLAY: Transmissão P2P em Alta Definição
+
+Imagem em alta definição sem travamentos
+
+Tecnologia P2P: sinal estável e sem sobrecarga
+
+Fluidez total para assistir sem interrupções.",
+    "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/v1.03/WPlay.P2P.BinStream.apk"
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/11.09.0d/WPlay.P2P.BinStream.apk"
   },
   {
     "name": "Unitv",
