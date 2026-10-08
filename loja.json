@@ -92,7 +92,7 @@ Mais opções para assistir seus conteúdos com praticidade e flexibilidade..",
   {
     "name": "Yellow GO",
     "version": "1.4",
-    "tier": "PLATINA",
+    "tier": "PRATA",
     "description": 
     "🟡 YELLOW BOX — SISTEMA OTT
 
@@ -108,7 +108,7 @@ O Yellow Box é uma solução baseada em tecnologia OTT, desenvolvida para ofere
   {
     "name": "SoniPlay",
     "version": "3.8.0",
-    "tier": "PLATINA",
+    "tier": "OURO",
     "description": "Aplicativo completo para filmes, séries e entretenimento.",
     "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaytv.png",
