@@ -71,6 +71,25 @@ A liderança comprovada em qualidade e desempenho.",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.00/UNET.PLUS.apk"
   },
   {
+    "name": "Aura TV",
+    "version": "3.0.1",
+    "tier": "PLATINA",
+    "description": 
+    
+    "AURA TV — TECNOLOGIA HÍBRIDA
+
+AURA TV é um aplicativo híbrido que reúne duas tecnologias em uma única plataforma: IPTV + P2P.
+
+🔵 IPTV — transmissão tradicional, com estabilidade e praticidade.
+🟠 P2P — tecnologia de distribuição que amplia as possibilidades de transmissão.
+
+✨ Duas tecnologias. Um único aplicativo.
+Mais opções para assistir seus conteúdos com praticidade e flexibilidade..",
+    "price": "R$ 20,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/auratv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.0.1/aurahibrido.apk"
+  },
+  {
     "name": "SoniPlay",
     "version": "3.8.0",
     "tier": "PLATINA",
