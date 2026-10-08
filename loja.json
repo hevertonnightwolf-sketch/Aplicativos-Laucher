@@ -2,6 +2,7 @@
   {
     "name": "Atualização laucher",
     "version": "1.01",
+    "tier": "DIAMANTE",
     "description": "Launcher oficial atualizada com novas cores e desempenho otimizado.",
     "price": "GRÁTIS",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
@@ -10,6 +11,7 @@
   {
     "name": "WPlay P2P",
     "version": "1.03",
+    "tier": "PLATINA",
     "description": "Transmissão P2P estável em alta definição sem travamentos.",
     "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
@@ -18,6 +20,7 @@
   {
     "name": "Unitv",
     "version": "4.19",
+    "tier": "PLATINA",
     "description": "Canais ao vivo, guia completo e catálogo sob demanda.",
     "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unitv.png",
@@ -26,6 +29,7 @@
   {
     "name": "Unet TV Player",
     "version": "2.0.0",
+    "tier": "PLATINA",
     "description": "Player multimídia exclusivo para clientes da rede Unet.",
     "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/UnetPlayer.png",
@@ -34,6 +38,7 @@
   {
     "name": "SoniPlay",
     "version": "3.8.0",
+    "tier": "PLATINA",
     "description": "Aplicativo completo para filmes, séries e entretenimento.",
     "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaytv.png",
