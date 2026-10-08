@@ -37,12 +37,18 @@ Fluidez total para assistir sem interrupções.",
   },
   {
     "name": "Unitv",
-    "version": "4.19",
+    "version": "4.21.0.00",
     "tier": "PLATINA",
-    "description": "Canais ao vivo, guia completo e catálogo sob demanda.",
+    "description": "🏆 UniTV: Eleito o Melhor Sistema do Brasil por 6x Consecutivas!
+
+Tecnologia OTT Plus ultraestável e sem travamentos
+
+Imagem em alta definição com troca instantânea de canais
+
+A liderança comprovada em qualidade e desempenho.",
     "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unitv.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/aplicativos/releases/download/v1.02/unitv.apk"
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/4.21.0.00/unitv.4.21.apk"
   },
   {
     "name": "Unet TV Player",
