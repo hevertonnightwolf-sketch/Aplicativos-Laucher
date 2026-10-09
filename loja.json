@@ -55,12 +55,12 @@
   },
   {
     "name": "Black BR P2P",
-  "version": "09.12.25",
-  "tier": "TEMPORAIO",
-  "description": "Black br P2P — TECNOLOGIA E ENTRETENIMENTO! 📺\n\n🚀 Um sistema que combina tecnologia IPTV e P2P para oferecer uma experiência de entretenimento moderna, com praticidade e diversidade de conteúdos.\n\n✅ Tecnologia IPTV + P2P\n🎬 Variedade de conteúdos\n⚡ Tecnologia para uma experiência diferenciada\n📱 Praticidade no acesso\n\n💎 Black br P2P — inovação, diversidade e entretenimento em um só lugar!",
-  "price": "R$ 25,00",
-  "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/blackbrp2p.png",
-  "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/09.12.25/black.br.p2p.apk"
+    "version": "09.12.25",
+    "tier": "TEMPORARIO",
+    "description": "Black br P2P — TECNOLOGIA E ENTRETENIMENTO! 📺\n\n🚀 Um sistema que combina tecnologia IPTV e P2P para oferecer uma experiência de entretenimento moderna, com praticidade e diversidade de conteúdos.\n\n✅ Tecnologia IPTV + P2P\n🎬 Variedade de conteúdos\n⚡ Tecnologia para uma experiência diferenciada\n📱 Praticidade no acesso\n\n💎 Black br P2P — inovação, diversidade e entretenimento em um só lugar!",
+    "price": "R$ 25,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/blackbrp2p.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/09.12.25/black.br.p2p.apk"
   },
   {
     "name": "WPlay P2P",
