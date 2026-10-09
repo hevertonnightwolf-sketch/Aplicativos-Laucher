@@ -3,21 +3,7 @@
     "name": "Atualização laucher",
     "version": "1.20",
     "tier": "DIAMANTE",
-    "description": 
-    
-    "Notas da Versão – Atualização do Launcher
-
-Visual: Paleta de cores atualizada e design mais limpo.
-
-Performance: Otimização no carregamento inicial e transições mais fluidas.
-
-Correções: Resolução de falhas críticas e correções gerais de estabilidade.
-
-Painel: Indicadores de horário e sinal de Wi-Fi agora totalmente funcionais.
-
-Loja: Catálogo ampliado, carregamento acelerado e interface aprimorada.
-
-Downloads: Adicionada barra de progresso visual com status em tempo real.",
+    "description": "Notas da Versão – Atualização do Launcher\n\nVisual: Paleta de cores atualizada e design mais limpo.\n\nPerformance: Otimização no carregamento inicial e transições mais fluidas.\n\nCorreções: Resolução de falhas críticas e correções gerais de estabilidade.\n\nPainel: Indicadores de horário e sinal de Wi-Fi agora totalmente funcionais.\n\nLoja: Catálogo ampliado, carregamento acelerado e interface aprimorada.\n\nDownloads: Adicionada barra de progresso visual com status em tempo real.",
     "price": "GRÁTIS",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.20/Laucher.personalizada.unet.apk"
@@ -26,15 +12,7 @@ Downloads: Adicionada barra de progresso visual com status em tempo real.",
     "name": "WPlay P2P",
     "version": "11.09.0d",
     "tier": "PLATINA",
-    "description": 
-    
-    "⚡ WPLAY: Transmissão P2P em Alta Definição
-
-Imagem em alta definição sem travamentos
-
-Tecnologia P2P: sinal estável e sem sobrecarga
-
-Fluidez total para assistir sem interrupções.",
+    "description": "⚡ WPLAY: Transmissão P2P em Alta Definição\n\nImagem em alta definição sem travamentos\n\nTecnologia P2P: sinal estável e sem sobrecarga\n\nFluidez total para assistir sem interrupções.",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/11.09.0d/WPlay.P2P.BinStream.apk"
@@ -43,15 +21,7 @@ Fluidez total para assistir sem interrupções.",
     "name": "Unitv",
     "version": "4.21.0.00",
     "tier": "ESPECIAL",
-    "description": 
-    
-    "🏆 UniTV: Eleito o Melhor Sistema do Brasil por 6x Consecutivas!
-
-Tecnologia OTT Plus ultraestável e sem travamentos
-
-Imagem em alta definição com troca instantânea de canais
-
-A liderança comprovada em qualidade e desempenho.",
+    "description": "🏆 UniTV: Eleito o Melhor Sistema do Brasil por 6x Consecutivas!\n\nTecnologia OTT Plus ultraestável e sem travamentos\n\nImagem em alta definição com troca instantânea de canais\n\nA liderança comprovada em qualidade e desempenho.",
     "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unitv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/4.21.0.00/unitv.4.21.apk"
@@ -60,12 +30,7 @@ A liderança comprovada em qualidade e desempenho.",
     "name": "Unet Plus TV Player",
     "version": "1.0",
     "tier": "ESPECIAL",
-    "description": 
-    
-    "🔥 Unet TV+ Plus | O Rival Absoluto do UniTV   
-    🚀 O que mais cresce no mercado: tecnologia moderna e expansão acelerada.
-    💎 Qualidade sem igual: transmissão estável, imagem em alta definição e fluidez total.
-    ⚡ Desempenho de topo: troca rápida de canais, sem engasgos ou sobrecargas..",
+    "description": "🔥 Unet TV+ Plus | O Rival Absoluto do UniTV\n🚀 O que mais cresce no mercado: tecnologia moderna e expansão acelerada.\n💎 Qualidade sem igual: transmissão estável, imagem em alta definição e fluidez total.\n⚡ Desempenho de topo: troca rápida de canais, sem engasgos ou sobrecargas..",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unetplus.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.00/UNET.PLUS.apk"
@@ -74,17 +39,7 @@ A liderança comprovada em qualidade e desempenho.",
     "name": "Aura TV",
     "version": "3.0.1",
     "tier": "PLATINA",
-    "description": 
-    
-    "AURA TV — TECNOLOGIA HÍBRIDA
-
-AURA TV é um aplicativo híbrido que reúne duas tecnologias em uma única plataforma: IPTV + P2P.
-
-🔵 IPTV — transmissão tradicional, com estabilidade e praticidade.
-🟠 P2P — tecnologia de distribuição que amplia as possibilidades de transmissão.
-
-✨ Duas tecnologias. Um único aplicativo.
-Mais opções para assistir seus conteúdos com praticidade e flexibilidade..",
+    "description": "AURA TV — TECNOLOGIA HÍBRIDA\n\nAURA TV é um aplicativo híbrido que reúne duas tecnologias em uma única plataforma: IPTV + P2P.\n\n🔵 IPTV — transmissão tradicional, com estabilidade e praticidade.\n🟠 P2P — tecnologia de distribuição que amplia as possibilidades de transmissão.\n\n✨ Duas tecnologias. Um único aplicativo.\nMais opções para assistir seus conteúdos com praticidade e flexibilidade..",
     "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/auratv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.0.1/aurahibrido.apk"
@@ -93,12 +48,7 @@ Mais opções para assistir seus conteúdos com praticidade e flexibilidade..",
     "name": "Ninety",
     "version": "1.8",
     "tier": "PLATINA",
-    "description":
-    "⚡ NINITY P2P — TECNOLOGIA E ENTRETENIMENTO
-
-🚀 O Ninity é um sistema que utiliza a tecnologia P2P (Peer-to-Peer), oferecendo uma alternativa tecnológica para a transmissão de conteúdos, com foco em praticidade e desempenho.
-
-📺 Uma solução moderna para quem busca entretenimento com tecnologia diferenciada!",
+    "description": "⚡ NINITY P2P — TECNOLOGIA E ENTRETENIMENTO\n\n🚀 O Ninity é um sistema que utiliza a tecnologia P2P (Peer-to-Peer), oferecendo uma alternativa tecnológica para a transmissão de conteúdos, com foco em praticidade e desempenho.\n\n📺 Uma solução moderna para quem busca entretenimento com tecnologia diferenciada!",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/ninite.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.09/p2ninety.apk"
@@ -107,31 +57,16 @@ Mais opções para assistir seus conteúdos com praticidade e flexibilidade..",
     "name": "Play TV",
     "version": "1.18",
     "tier": "OURO",
-    "description":
-    "💎 PLAY TV — ECONOMIA, DIVERSIDADE E QUALIDADE! 📺
-
-🚀 Entretenimento com preço acessível, variedade de conteúdos e qualidade para você aproveitar muito mais!
-
-✅ Barato e econômico
-🎬 Diversidade de conteúdos
-⚡ Qualidade para curtir seus favoritos",
+    "description": "💎 PLAY TV — ECONOMIA, DIVERSIDADE E QUALIDADE! 📺\n\n🚀 Entretenimento com preço acessível, variedade de conteúdos e qualidade para você aproveitar muito mais!\n\n✅ Barato e econômico\n🎬 Diversidade de conteúdos\n⚡ Qualidade para curtir seus favoritos",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/playtv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.15/playtv.apk"
-  },
   },
   {
     "name": "Yellow GO",
     "version": "1.4",
     "tier": "EVENTO",
-    "description": 
-    "🟡 YELLOW BOX — SISTEMA OTT
-
-O Yellow Box é uma solução baseada em tecnologia OTT, desenvolvida para oferecer uma experiência de entretenimento moderna, prática e acessível.
-
-📺 Tecnologia OTT — conteúdo entregue diretamente pela internet, sem depender da transmissão tradicional.
-
-✨ Praticidade • Qualidade • Experiência digital.",
+    "description": "🟡 YELLOW BOX — SISTEMA OTT\n\nO Yellow Box é uma solução baseada em tecnologia OTT, desenvolvida para oferecer uma experiência de entretenimento moderna, prática e acessível.\n\n📺 Tecnologia OTT — conteúdo entregue diretamente pela internet, sem depender da transmissão tradicional.\n\n✨ Praticidade • Qualidade • Experiência digital.",
     "price": "R$ 16,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/yellowbox.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.05/yellowgo.apk"
@@ -140,27 +75,16 @@ O Yellow Box é uma solução baseada em tecnologia OTT, desenvolvida para ofere
     "name": "UnetApp",
     "version": "3.8.0",
     "tier": "PROMOÇÃO",
-    "description":
-    "✦ UNET APP ✦
-    
-TECNOLOGIA • ECONOMIA
-
-Entretenimento inteligente para o seu dia a dia
-
-Praticidade e economia para quem busca assistir mais, gastando menos.",
+    "description": "✦ UNET APP ✦\n\nTECNOLOGIA • ECONOMIA\n\nEntretenimento inteligente para o seu dia a dia\n\nPraticidade e economia para quem busca assistir mais, gastando menos.",
     "price": "R$ 10,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unetapp.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.08/unetapp.apk"
-   },
+  },
   {
     "name": "SoniPlay",
     "version": "3.8.0",
     "tier": "EVENTO",
-    "description":
-    "✦ SONI PLAY ✦
-◆ TECNOLOGIA • ENTRETENIMENTO ◆
-
-Sua diversão, sua experiência!",
+    "description": "✦ SONI PLAY ✦\n◆ TECNOLOGIA • ENTRETENIMENTO ◆\n\nSua diversão, sua experiência!",
     "price": "R$ 16,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplay.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.8/soniplaytv.apk"
