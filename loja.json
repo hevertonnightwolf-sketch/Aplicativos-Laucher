@@ -45,11 +45,28 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.0.1/aurahibrido.apk"
   },
   {
+    "name": "4K pro",
+    "version": "1.0",
+    "tier": "PROMOÇÃO",
+    "description": "✦ 🚀 4K PRO — MAIS OPÇÕES, UM SÓ ACESSO!
+
+🔑 Utilize o mesmo usuário e senha para acessar 3 aplicativos com as mesmas tags, trazendo mais praticidade e versatilidade em um único sistema.
+
+✅ 3 aplicativos
+🔄 Se informe quais os apps compativeis com seu vendedor
+🔑 Mesmo usuário e senha
+
+💎 4K PRO: praticidade e diversidade em um só lugar!.",
+    "price": "R$ 25,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/4kpro.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.13/OTT.PRO.apk"
+  },
+  {
     "name": "Ninety",
     "version": "1.8",
     "tier": "PLATINA",
     "description": "⚡ NINITY P2P — TECNOLOGIA E ENTRETENIMENTO\n\n🚀 O Ninity é um sistema que utiliza a tecnologia P2P (Peer-to-Peer), oferecendo uma alternativa tecnológica para a transmissão de conteúdos, com foco em praticidade e desempenho.\n\n📺 Uma solução moderna para quem busca entretenimento com tecnologia diferenciada!",
-    "price": "R$ 25,00",
+    "price": "R$ 20,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/ninite.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.09/p2ninety.apk"
   },
