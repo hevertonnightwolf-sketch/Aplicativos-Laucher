@@ -120,5 +120,18 @@ Praticidade e economia para quem busca assistir mais, gastando menos.",
     "price": "R$ 10,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unetapp.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.08/unetapp.apk"
+   },
+  {
+    "name": "SoniPlay",
+    "version": "3.8.0",
+    "tier": "EVENTO",
+    "description":
+    "✦ SONI PLAY ✦
+◆ TECNOLOGIA • ENTRETENIMENTO ◆
+
+Sua diversão, sua experiência!",
+    "price": "R$ 10,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplay.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.8/soniplaytv.apk"
   }
 ]
