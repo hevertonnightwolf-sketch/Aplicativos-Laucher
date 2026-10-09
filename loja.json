@@ -100,8 +100,25 @@ Mais opções para assistir seus conteúdos com praticidade e flexibilidade..",
 
 📺 Uma solução moderna para quem busca entretenimento com tecnologia diferenciada!",
     "price": "R$ 25,00",
-    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/ninite.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/ninite.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.09/p2ninety.apk"
+  },
+  {
+    "name": "Play TV",
+    "version": "1.18",
+    "tier": "OURO",
+    "description":
+    "💎 PLAY TV — ECONOMIA, DIVERSIDADE E QUALIDADE! 📺
+
+🚀 Entretenimento com preço acessível, variedade de conteúdos e qualidade para você aproveitar muito mais!
+
+✅ Barato e econômico
+🎬 Diversidade de conteúdos
+⚡ Qualidade para curtir seus favoritos",
+    "price": "R$ 25,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/playtv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.15/playtv.apk"
+  },
   },
   {
     "name": "Yellow GO",
