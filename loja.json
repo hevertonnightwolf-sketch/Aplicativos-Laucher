@@ -1,12 +1,12 @@
 [
   {
     "name": "Atualização laucher",
-    "version": "1.20",
+    "version": "1.23",
     "tier": "DIAMANTE",
     "description": "Notas da Versão – Atualização do Launcher\n\nVisual: Paleta de cores atualizada e design mais limpo.\n\nPerformance: Otimização no carregamento inicial e transições mais fluidas.\n\nCorreções: Resolução de falhas críticas e correções gerais de estabilidade.\n\nPainel: Indicadores de horário e sinal de Wi-Fi agora totalmente funcionais.\n\nLoja: Catálogo ampliado, carregamento acelerado e interface aprimorada.\n\nDownloads: Adicionada barra de progresso visual com status em tempo real.",
     "price": "GRÁTIS",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.20/Laucher.personalizada.unet.apk"
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.23/Laucher.Unet.com.loja.apk"
   },
   {
     "name": "Unitv",
