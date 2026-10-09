@@ -90,6 +90,20 @@ Mais opções para assistir seus conteúdos com praticidade e flexibilidade..",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.0.1/aurahibrido.apk"
   },
   {
+    "name": "Ninety",
+    "version": "1.8",
+    "tier": "PLATINA",
+    "description":
+    "⚡ NINITY P2P — TECNOLOGIA E ENTRETENIMENTO
+
+🚀 O Ninity é um sistema que utiliza a tecnologia P2P (Peer-to-Peer), oferecendo uma alternativa tecnológica para a transmissão de conteúdos, com foco em praticidade e desempenho.
+
+📺 Uma solução moderna para quem busca entretenimento com tecnologia diferenciada!",
+    "price": "R$ 25,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/ninite.jpg",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.09/p2ninety.apk"
+  },
+  {
     "name": "Yellow GO",
     "version": "1.4",
     "tier": "EVENTO",
