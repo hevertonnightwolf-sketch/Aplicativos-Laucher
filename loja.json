@@ -45,6 +45,15 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.08/unetapp.apk"
   },
   {
+    "name": "SoniPlay",
+    "version": "3.8.0",
+    "tier": "TEMPORARIO",
+    "description": "✦ SONI PLAY ✦\n◆ TECNOLOGIA • ENTRETENIMENTO ◆\n\nSua diversão, sua experiência!",
+    "price": "R$ 16,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplay.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.8/soniplaytv.apk"
+  },
+  {
     "name": "WPlay P2P",
     "version": "11.09.0d",
     "tier": "PLATINA",
@@ -97,14 +106,5 @@
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/playtv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.15/playtv.apk"
-  },
-  {
-    "name": "SoniPlay",
-    "version": "3.8.0",
-    "tier": "EVENTO",
-    "description": "✦ SONI PLAY ✦\n◆ TECNOLOGIA • ENTRETENIMENTO ◆\n\nSua diversão, sua experiência!",
-    "price": "R$ 16,00",
-    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplay.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.8/soniplaytv.apk"
   }
 ]
