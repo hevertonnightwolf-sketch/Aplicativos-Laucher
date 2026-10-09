@@ -9,15 +9,6 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.20/Laucher.personalizada.unet.apk"
   },
   {
-    "name": "WPlay P2P",
-    "version": "11.09.0d",
-    "tier": "PLATINA",
-    "description": "⚡ WPLAY: Transmissão P2P em Alta Definição\n\nImagem em alta definição sem travamentos\n\nTecnologia P2P: sinal estável e sem sobrecarga\n\nFluidez total para assistir sem interrupções.",
-    "price": "R$ 25,00",
-    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/11.09.0d/WPlay.P2P.BinStream.apk"
-  },
-  {
     "name": "Unitv",
     "version": "4.21.0.00",
     "tier": "ESPECIAL",
@@ -36,6 +27,33 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.00/UNET.PLUS.apk"
   },
   {
+    "name": "4K pro",
+    "version": "1.0",
+    "tier": "TEMPORARIO",
+    "description": "✦ 🚀 4K PRO — MAIS OPÇÕES, UM SÓ ACESSO!\n\n🔑 Utilize o mesmo usuário e senha para acessar 3 aplicativos com as mesmas tags, trazendo mais praticidade e versatilidade em um único sistema.\n\n✅ 3 aplicativos\n🔄 Mesmo acesso para apps com as mesmas tags ou selos\n🔑 Mesmo usuário e senha\n\n💎 4K PRO: praticidade e diversidade em um só lugar!.",
+    "price": "R$ 25,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/4kpro.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.13/OTT.PRO.apk"
+  },
+  {
+    "name": "UnetApp",
+    "version": "3.8.0",
+    "tier": "TEMPORARIO",
+    "description": "✦ UNET APP ✦\n\nTECNOLOGIA • ECONOMIA\n\nEntretenimento inteligente para o seu dia a dia\n\nPraticidade e economia para quem busca assistir mais, gastando menos.",
+    "price": "R$ 16,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unetapp.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.08/unetapp.apk"
+  },
+  {
+    "name": "WPlay P2P",
+    "version": "11.09.0d",
+    "tier": "PLATINA",
+    "description": "⚡ WPLAY: Transmissão P2P em Alta Definição\n\nImagem em alta definição sem travamentos\n\nTecnologia P2P: sinal estável e sem sobrecarga\n\nFluidez total para assistir sem interrupções.",
+    "price": "R$ 25,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/11.09.0d/WPlay.P2P.BinStream.apk"
+  },
+  {
     "name": "Aura TV",
     "version": "3.0.1",
     "tier": "PLATINA",
@@ -45,21 +63,13 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.0.1/aurahibrido.apk"
   },
   {
-    "name": "4K pro",
-    "version": "1.0",
-    "tier": "TEMPORARIO",
-    "description": "✦ 🚀 4K PRO — MAIS OPÇÕES, UM SÓ ACESSO!
-
-🔑 Utilize o mesmo usuário e senha para acessar 3 aplicativos com as mesmas tags, trazendo mais praticidade e versatilidade em um único sistema.
-
-✅ 3 aplicativos
-🔄 Mesmo acesso para apps com as mesmas tags ou selos
-🔑 Mesmo usuário e senha
-
-💎 4K PRO: praticidade e diversidade em um só lugar!.",
+    "name": "BRTV",
+    "version": "1.13",
+    "tier": "PLATINA",
+    "description": "BRASIL IPTV P2P — TECNOLOGIA E ENTRETENIMENTO! 📺\n\n🚀 Um sistema que combina tecnologia IPTV e P2P para oferecer uma experiência de entretenimento moderna, com praticidade e diversidade de conteúdos.\n\n✅ Tecnologia IPTV + P2P\n🎬 Variedade de conteúdos\n⚡ Tecnologia para uma experiência diferenciada\n📱 Praticidade no acesso\n\n💎 BRASIL IPTV P2P — inovação, diversidade e entretenimento em um só lugar!",
     "price": "R$ 25,00",
-    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/4kpro.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.13/OTT.PRO.apk"
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/brtvp2p.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.16/brtv.p2p.apk"
   },
   {
     "name": "Ninety",
@@ -71,15 +81,6 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.09/p2ninety.apk"
   },
   {
-    "name": "Play TV",
-    "version": "1.18",
-    "tier": "OURO",
-    "description": "💎 PLAY TV — ECONOMIA, DIVERSIDADE E QUALIDADE! 📺\n\n🚀 Entretenimento com preço acessível, variedade de conteúdos e qualidade para você aproveitar muito mais!\n\n✅ Barato e econômico\n🎬 Diversidade de conteúdos\n⚡ Qualidade para curtir seus favoritos",
-    "price": "R$ 25,00",
-    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/playtv.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.15/playtv.apk"
-  },
-  {
     "name": "Yellow GO",
     "version": "1.4",
     "tier": "PLATINA",
@@ -89,13 +90,13 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.05/yellowgo.apk"
   },
   {
-    "name": "UnetApp",
-    "version": "3.8.0",
-    "tier": "TEMPORARIO",
-    "description": "✦ UNET APP ✦\n\nTECNOLOGIA • ECONOMIA\n\nEntretenimento inteligente para o seu dia a dia\n\nPraticidade e economia para quem busca assistir mais, gastando menos.",
-    "price": "R$ 16,00",
-    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unetapp.png",
-    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.08/unetapp.apk"
+    "name": "Play TV",
+    "version": "1.18",
+    "tier": "OURO",
+    "description": "💎 PLAY TV — ECONOMIA, DIVERSIDADE E QUALIDADE! 📺\n\n🚀 Entretenimento com preço acessível, variedade de conteúdos e qualidade para você aproveitar muito mais!\n\n✅ Barato e econômico\n🎬 Diversidade de conteúdos\n⚡ Qualidade para curtir seus favoritos",
+    "price": "R$ 25,00",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/playtv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.15/playtv.apk"
   },
   {
     "name": "SoniPlay",
