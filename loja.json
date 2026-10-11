@@ -1,10 +1,18 @@
-
 [
   {
     "name": "Atualização Launcher",
     "version": "1.36",
     "tier": "DIAMANTE",
     "description": "🛠️ CORREÇÕES CRÍTICAS\n\nCorrigidas falhas importantes do sistema, incluindo o problema que impedia a desinstalação de aplicativos em alguns dispositivos.\n\n🛡️ VPN INTEGRADA\n\nAdicionado sistema de VPN para ajudar a contornar determinados bloqueios impostos por operadoras. A funcionalidade atua em alguns tipos de bloqueio, podendo variar conforme a rede utilizada.\n\n🔧 COMO ATIVAR A VPN\n\n1. Acesse Ajustes no Launcher.\n2. Localize e habilite a opção VPN.\n3. Após a ativação, um ícone de escudo aparecerá na tela inicial, ao lado do indicador de Wi-Fi.\n\n🚀 Atualização com foco em correções críticas, estabilidade e conectividade.",
+    "price": "GRÁTIS",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.36/Laucher.Unet.com.loja.apk"
+  },
+  {
+    "name": "UniproNP",
+    "version": "1.20",
+    "tier": "ESPECIAL",
+    "description": "💎 UNIPRO NP — QUALIDADE, SEGURANÇA E ESTABILIDADE\n\n🚀 Uma experiência de entretenimento desenvolvida para quem valoriza qualidade e desempenho.\n\n📺 QUALIDADE DE TRANSMISSÃO\nExperiência de reprodução com foco em imagem e fluidez.\n\n⚡ DESEMPENHO E ESTABILIDADE\nSistema preparado para oferecer uma experiência mais fluida e reduzir possíveis interrupções, conforme a conexão e as condições do servidor.\n\n🛡️ SEGURANÇA E CONFIABILIDADE\nUma solução que prioriza praticidade, confiabilidade e qualidade de uso.\n\n🎬 UNIPRO NP\nQualidade, segurança e estabilidade para sua experiência de entretenimento!",
     "price": "GRÁTIS",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.36/Laucher.Unet.com.loja.apk"
@@ -67,7 +75,7 @@
     "name": "WPlay P2P",
     "version": "11.09.0d",
     "tier": "PLATINA",
-    "description": "⚡ WPLAY: Transmissão P2P em Alta Definição\n\nImagem em alta definição sem travamentos\n\nTecnologia P2P: sinal estável e sem sobrecarga\n\nFluidez total para assistir sem interrupções.",
+    "description": "⚡ WPLAY: Transmissão P2P em Alta Definição\n\nImagem em alta definição com foco em uma reprodução fluida.\n\nTecnologia P2P: distribuição de conteúdo com foco em desempenho.\n\nUma experiência de entretenimento que prioriza praticidade e estabilidade.",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/11.09.0d/WPlay.P2P.BinStream.apk"
@@ -76,7 +84,7 @@
     "name": "Aura TV",
     "version": "3.0.1",
     "tier": "PLATINA",
-    "description": "AURA TV — TECNOLOGIA HÍBRIDA\n\nAURA TV é um aplicativo híbrido que reúne duas tecnologias em uma única plataforma: IPTV + P2P.\n\n🔵 IPTV — transmissão tradicional, com estabilidade e praticidade.\n🟠 P2P — tecnologia de distribuição que amplia as possibilidades de transmissão.\n\n✨ Duas tecnologias. Um único aplicativo.\nMais opções para assistir seus conteúdos com praticidade e flexibilidade.",
+    "description": "AURA TV — TECNOLOGIA HÍBRIDA\n\nAURA TV é um aplicativo híbrido que reúne duas tecnologias em uma única plataforma: IPTV + P2P.\n\n🔵 IPTV — transmissão tradicional, com praticidade.\n🟠 P2P — tecnologia de distribuição que amplia as possibilidades de transmissão.\n\n✨ Duas tecnologias. Um único aplicativo.\nMais opções para assistir seus conteúdos com praticidade e flexibilidade.",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/auratv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.0.1/aurahibrido.apk"
@@ -94,7 +102,7 @@
     "name": "Ninety",
     "version": "1.8",
     "tier": "PLATINA",
-    "description": "⚡ NINITY P2P — TECNOLOGIA E ENTRETENIMENTO\n\n🚀 O Ninity é um sistema que utiliza a tecnologia P2P (Peer-to-Peer), oferecendo uma alternativa tecnológica para a transmissão de conteúdos, com foco em praticidade e desempenho.\n\n📺 Uma solução moderna para quem busca entretenimento com tecnologia diferenciada!",
+    "description": "⚡ NINITY P2P — TECNOLOGIA E ENTRETENIMENTO\n\n🚀 O Ninity utiliza a tecnologia P2P (Peer-to-Peer), oferecendo uma alternativa tecnológica para a transmissão de conteúdos, com foco em praticidade e desempenho.\n\n📺 Uma solução moderna para quem busca entretenimento com tecnologia diferenciada!",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/ninite.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.09/p2ninety.apk"
@@ -103,7 +111,7 @@
     "name": "Yellow GO",
     "version": "1.4",
     "tier": "PLATINA",
-    "description": "🟡 YELLOW BOX — SISTEMA OTT\n\nO Yellow Box é uma solução baseada em tecnologia OTT, desenvolvida para oferecer uma experiência de entretenimento moderna, prática e acessível.\n\n📺 Tecnologia OTT — conteúdo entregue diretamente pela internet, sem depender da transmissão tradicional.\n\n✨ Praticidade • Qualidade • Experiência digital.",
+    "description": "🟡 YELLOW BOX — SISTEMA OTT\n\nO Yellow Box é uma solução baseada em tecnologia OTT, desenvolvida para oferecer uma experiência de entretenimento moderna, prática e acessível.\n\n📺 Tecnologia OTT — conteúdo entregue diretamente pela internet.\n\n✨ Praticidade • Qualidade • Experiência digital.",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/yellowbox.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.05/yellowgo.apk"
@@ -112,7 +120,7 @@
     "name": "Play TV",
     "version": "1.18",
     "tier": "OURO",
-    "description": "💎 PLAY TV — ECONOMIA, DIVERSIDADE E QUALIDADE! 📺\n\n🚀 Entretenimento com preço acessível, variedade de conteúdos e qualidade para você aproveitar muito mais!\n\n✅ Barato e econômico\n🎬 Diversidade de conteúdos\n⚡ Qualidade para curtir seus favoritos",
+    "description": "💎 PLAY TV — ECONOMIA, DIVERSIDADE E QUALIDADE! 📺\n\n🚀 Entretenimento com preço acessível, variedade de conteúdos e qualidade para você aproveitar muito mais!\n\n✅ Economia\n🎬 Diversidade de conteúdos\n⚡ Uma experiência prática para curtir seus favoritos\n\n💎 PLAY TV: praticidade e diversidade em um só lugar!",
     "price": "R$ 25,00",
     "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/playtv.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.15/playtv.apk"
