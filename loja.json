@@ -5,7 +5,7 @@
     "tier": "DIAMANTE",
     "description": "🛠️ CORREÇÕES CRÍTICAS\n\nCorrigidas falhas importantes do sistema, incluindo o problema que impedia a desinstalação de aplicativos em alguns dispositivos.\n\n🛡️ VPN INTEGRADA\n\nAdicionado sistema de VPN para ajudar a contornar determinados bloqueios impostos por operadoras. A funcionalidade atua em alguns tipos de bloqueio, podendo variar conforme a rede utilizada.\n\n🔧 COMO ATIVAR A VPN\n\n1. Acesse Ajustes no Launcher.\n2. Localize e habilite a opção VPN.\n3. Após a ativação, um ícone de escudo aparecerá na tela inicial, ao lado do indicador de Wi-Fi.\n\n🚀 Atualização com foco em correções críticas, estabilidade e conectividade.",
     "price": "GRÁTIS",
-    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/laucherunet.png",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unipronp.png",
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.36/Laucher.Unet.com.loja.apk"
   },
   {
