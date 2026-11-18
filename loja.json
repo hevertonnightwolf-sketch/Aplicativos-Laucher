@@ -10,6 +10,15 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.36/Laucher.Unet.com.loja.apk"
   },
   {
+    "name": "UnetPlay",
+    "version": "1.6",
+    "tier": "DIAMANTE",
+    "description": "💎 UnetPlay — Simples e elegante. Um sistema ultraleve desenvolvido para máximo desempenho, fluidez e usabilidade total na sua TV Box",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/unetplaytv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/unetplayer/releases/download/1.00/UnetPlay_TV_Plus_1.6.apk"
+  }, 
+  {
     "name": "SoniPlayTop",
     "version": "4.0",
     "tier": "DIAMANTE",
