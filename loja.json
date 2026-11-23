@@ -37,6 +37,15 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.20/UniTv.1.2.NpUni.apk"
   },
   {
+    "name": "Nova TV",
+    "version": "1.40",
+    "tier": "ESPECIAL",
+    "description": "💎 NOVA TV  — QUALIDADE, SEGURANÇA E ESTABILIDADE\n\n🚀 Uma experiência de entretenimento desenvolvida para quem valoriza qualidade e desempenho.\n\n📺 QUALIDADE DE TRANSMISSÃO\nExperiência de reprodução com foco em imagem e fluidez.\n\n⚡ DESEMPENHO E ESTABILIDADE\nSistema preparado para oferecer uma experiência mais fluida e reduzir possíveis interrupções, conforme a conexão e as condições do servidor.\n\n🛡️ SEGURANÇA E CONFIABILIDADE\nUma solução que prioriza praticidade, confiabilidade e qualidade de uso.\n\n🎬 UNIPRO NP\nQualidade, segurança e estabilidade para sua experiência de entretenimento!",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/novatv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.4/Nova.Era.Tv.apk"
+  },
+  {
     "name": "Unitv",
     "version": "4.21.0.00",
     "tier": "ESPECIAL",
