@@ -10,6 +10,15 @@
     "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.36/Laucher.Unet.com.loja.apk"
   },
   {
+  "name": "Soni Play New",
+  "version": "0.21",
+  "tier": "DIAMANTE",
+  "description": "💎 SONI PLAY NEW — UMA NOVA EXPERIÊNCIA EM ENTRETENIMENTO\n\n🚀 Aplicativo moderno, desenvolvido para oferecer qualidade, desempenho e facilidade de navegação.\n\n📺 ENTRETENIMENTO COMPLETO\nCanais ao vivo, filmes, séries e conteúdo infantil em uma interface personalizada.\n\n🎬 RECURSOS INTELIGENTES\nReprodução automática do próximo episódio, histórico, favoritos, porcentagem assistida e opção de continuar de onde parou.\n\n⚽ TV AO VIVO\nPrévia de canais, programação EPG e Playback quando disponibilizado pelo servidor.\n\n🔒 CONTROLE PARENTAL\nProteção por PIN para ocultar conteúdos adultos.\n\n⚡ DESEMPENHO OTIMIZADO\nCarregamento progressivo das capas, armazenamento inteligente em cache e sistema de reconexão automática.\n\n🎨 INTERFACE PERSONALIZÁVEL\nTrês tamanhos de interface e legendas, navegação intuitiva e visual moderno.\n\n🔄 ATUALIZAÇÕES FREQUENTES\nMelhorias contínuas para proporcionar uma experiência cada vez melhor.\n\n💎 SONI PLAY NEW — UM NOVO NÍVEL DE ENTRETENIMENTO!",
+  "price": "CONSULTE SEU REVENDEDOR",
+  "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplaynew.png",
+  "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/0.21/Soni.Play.New.apk"
+}
+  {
     "name": "UnetPlay",
     "version": "1.6",
     "tier": "DIAMANTE",
