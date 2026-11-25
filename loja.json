@@ -1,3 +1,4 @@
+
 [
   {
     "name": "Atualização Launcher",
@@ -93,3 +94,72 @@
     "name": "SoniPlay",
     "version": "3.8.0",
     "tier": "TEMPORARIO",
+    "description": "✦ SONI PLAY ✦\n◆ TECNOLOGIA • ENTRETENIMENTO ◆\n\nSua diversão, sua experiência!",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/soniplay.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.8/soniplaytv.apk"
+  },
+  {
+    "name": "Black BR P2P",
+    "version": "09.12.25",
+    "tier": "TEMPORARIO",
+    "description": "Black BR P2P — TECNOLOGIA E ENTRETENIMENTO! 📺\n\n🚀 Um sistema que combina tecnologia IPTV e P2P para oferecer uma experiência de entretenimento moderna, com praticidade e diversidade de conteúdos.\n\n✅ Tecnologia IPTV + P2P\n🎬 Variedade de conteúdos\n⚡ Tecnologia para uma experiência diferenciada\n📱 Praticidade no acesso\n\n💎 Black BR P2P — inovação, diversidade e entretenimento em um só lugar!",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/blackbrp2p.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/09.12.25/black.br.p2p.apk"
+  },
+  {
+    "name": "WPlay P2P",
+    "version": "11.09.0d",
+    "tier": "PLATINA",
+    "description": "⚡ WPLAY: Transmissão P2P em Alta Definição\n\nImagem em alta definição com foco em uma reprodução fluida.\n\nTecnologia P2P: distribuição de conteúdo com foco em desempenho.\n\nUma experiência de entretenimento que prioriza praticidade e estabilidade.",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/wplay.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/11.09.0d/WPlay.P2P.BinStream.apk"
+  },
+  {
+    "name": "Aura TV",
+    "version": "3.0.1",
+    "tier": "PLATINA",
+    "description": "AURA TV — TECNOLOGIA HÍBRIDA\n\nAURA TV é um aplicativo híbrido que reúne duas tecnologias em uma única plataforma: IPTV + P2P.\n\n🔵 IPTV — transmissão tradicional, com praticidade.\n🟠 P2P — tecnologia de distribuição que amplia as possibilidades de transmissão.\n\n✨ Duas tecnologias. Um único aplicativo.\nMais opções para assistir seus conteúdos com praticidade e flexibilidade.",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/auratv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/3.0.1/aurahibrido.apk"
+  },
+  {
+    "name": "BRTV",
+    "version": "1.13",
+    "tier": "PLATINA",
+    "description": "BRASIL IPTV P2P — TECNOLOGIA E ENTRETENIMENTO! 📺\n\n🚀 Um sistema que combina tecnologia IPTV e P2P para oferecer uma experiência de entretenimento moderna, com praticidade e diversidade de conteúdos.\n\n✅ Tecnologia IPTV + P2P\n🎬 Variedade de conteúdos\n⚡ Tecnologia para uma experiência diferenciada\n📱 Praticidade no acesso\n\n💎 BRASIL IPTV P2P — inovação, diversidade e entretenimento em um só lugar!",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/brtvp2p.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.16/brtv.p2p.apk"
+  },
+  {
+    "name": "Ninety",
+    "version": "1.8",
+    "tier": "PLATINA",
+    "description": "⚡ NINITY P2P — TECNOLOGIA E ENTRETENIMENTO\n\n🚀 O Ninity utiliza a tecnologia P2P (Peer-to-Peer), oferecendo uma alternativa tecnológica para a transmissão de conteúdos, com foco em praticidade e desempenho.\n\n📺 Uma solução moderna para quem busca entretenimento com tecnologia diferenciada!",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/ninite.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.09/p2ninety.apk"
+  },
+  {
+    "name": "Yellow GO",
+    "version": "1.4",
+    "tier": "PLATINA",
+    "description": "🟡 YELLOW BOX — SISTEMA OTT\n\nO Yellow Box é uma solução baseada em tecnologia OTT, desenvolvida para oferecer uma experiência de entretenimento moderna, prática e acessível.\n\n📺 Tecnologia OTT — conteúdo entregue diretamente pela internet.\n\n✨ Praticidade • Qualidade • Experiência digital.",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/yellowbox.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.05/yellowgo.apk"
+  },
+  {
+    "name": "Play TV",
+    "version": "1.18",
+    "tier": "OURO",
+    "description": "💎 PLAY TV — ECONOMIA, DIVERSIDADE E QUALIDADE! 📺\n\n🚀 Entretenimento com preço acessível, variedade de conteúdos e qualidade para você aproveitar muito mais!\n\n✅ Economia\n🎬 Diversidade de conteúdos\n⚡ Uma experiência prática para curtir seus favoritos\n\n💎 PLAY TV: praticidade e diversidade em um só lugar!",
+    "price": "CONSULTE SEU REVENDEDOR",
+    "iconUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/Aplicativos-Laucher/main/playtv.png",
+    "downloadUrl": "https://github.com/hevertonnightwolf-sketch/Aplicativos-Laucher/releases/download/1.15/playtv.apk"
+  }
+]
